@@ -1,7 +1,7 @@
 # HATS-2026-06-26-e37e67a [NOSYSCFW]
 # HATS Pack Summary
 
-**Generated on:** 26-06-2026 10:25:59 UTC  
+**Generated on:** 26-06-2026 16:10:57 UTC  
 **Builder Version:** 2.0.2-GUI  
 **Content Hash:** e37e67a  
 **Supported Firmware:** Up to 22.5.0  
@@ -15,8 +15,8 @@
 - **Hekatos-nosyscfw** (6.5.3)
 
 ### Components Removed:
-- **HATS-Tools-noemucfw** (1.7.0)
-- **Hekatos-noemucfw** (6.5.3)
+- **HATS-Tools** (1.7.0)
+- **Hekatos** (6.5.3)
 
 ---
 
